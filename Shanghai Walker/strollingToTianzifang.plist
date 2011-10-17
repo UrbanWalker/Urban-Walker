@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>distance</key>
+		<string>2.5</string>
+		<key>duration</key>
+		<string>45 minutes</string>
+		<key>ends</key>
+		<string>Dapuqiao station</string>
+		<key>mapFile</key>
+		<string>strollingToTianzifang</string>
+		<key>overview</key>
+		<string>A delightful walk through beautiful old roads at the heart of Shanghai. Starting in an high-end fashion area, you&apos;ll encounter small boutiques, local life, historical mansions and a recent addition to Shanghai&apos;s outdoor scene, Tianzifang.</string>
+		<key>starts</key>
+		<string>S. Shaanxi road station</string>
+		<key>StepNumber</key>
+		<integer>0</integer>
+		<key>thumbnail</key>
+		<string>strollingToTianzifangThumbnail.png</string>
+		<key>walkTitle</key>
+		<string>Strolling to Tianzifang</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Starting at South Shaanxi road station (line 1), go out of exit 2 and head for the intersection. Cross Huaihai road and walk on South Shaanxi road.</string>
+		<key>helpText</key>
+		<string>你好，淮海路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Huaihai road.</string>
+		<key>picture</key>
+		<string>crossHuaihaiRoad.png</string>
+		<key>StepName</key>
+		<string>Step 1</string>
+		<key>StepNumber</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>A few steps after passing the department store, you will meet Nanchang road. This street is filled with small shops of all kinds. Turn left on Nanchang road. </string>
+		<key>helpText</key>
+		<string>你好，南昌路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Nanchang road.</string>
+		<key>picture</key>
+		<string>leftNanchangRoad.png</string>
+		<key>StepName</key>
+		<string>Step 2</string>
+		<key>StepNumber</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross South Maoming road.</string>
+		<key>helpText</key>
+		<string>你好，茂名南路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>South Maoming road.</string>
+		<key>picture</key>
+		<string>crossSouthMaomingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 3</string>
+		<key>StepNumber</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Continue on Nanchang road until you meet Ruijin road (no.2) and turn right.</string>
+		<key>helpText</key>
+		<string>你好，瑞金二路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Ruijin road (no.2).</string>
+		<key>picture</key>
+		<string>rightRuijinRoad.png</string>
+		<key>StepName</key>
+		<string>Step 4</string>
+		<key>StepNumber</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>After a few minutes, you will see Gaolan road on your left. Carefully cross Ruijin road (no.2) and go down Gaolan road. This road has some nice old houses.</string>
+		<key>helpText</key>
+		<string>你好，皋兰路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Gaolan road.</string>
+		<key>picture</key>
+		<string>leftGaolanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 5</string>
+		<key>StepNumber</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>When you meet Sinan road, turn right. Optionally, you can continue on Gaolan road and enter lovely Fuxing park for a look.</string>
+		<key>helpText</key>
+		<string>你好，思南路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Sinan road.</string>
+		<key>picture</key>
+		<string>rightSinanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 6</string>
+		<key>StepNumber</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Sinan road has a couple of historical houses you can visit, keep an eye out for the signs on your left. Eventually, you will meet Xiangshan road, cross it and continue on Sinan road.</string>
+		<key>helpText</key>
+		<string>你好，香山路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Xiangshan road.</string>
+		<key>picture</key>
+		<string>crossXiangshan.png</string>
+		<key>StepName</key>
+		<string>Step 7</string>
+		<key>StepNumber</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Fuxing Middle road.</string>
+		<key>helpText</key>
+		<string>你好，复兴中路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fuxing Middle road.</string>
+		<key>picture</key>
+		<string>crossFuxingRoad2.png</string>
+		<key>StepName</key>
+		<string>Step 8</string>
+		<key>StepNumber</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn right on the small street called Jiande road.</string>
+		<key>helpText</key>
+		<string>你好，建德路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Jiande road.</string>
+		<key>picture</key>
+		<string>rightJiandeRoad.png</string>
+		<key>StepName</key>
+		<string>Step 9</string>
+		<key>StepNumber</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn left on Ruijin road (no.2).</string>
+		<key>helpText</key>
+		<string>你好，瑞金二路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Ruijin road (no.2).</string>
+		<key>picture</key>
+		<string>leftRuijinerRoad.png</string>
+		<key>StepName</key>
+		<string>Step 10</string>
+		<key>StepNumber</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Jianguo Middle road.</string>
+		<key>helpText</key>
+		<string>你好，建国中路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Jianguo Middle road.</string>
+		<key>picture</key>
+		<string>crossJianguoRoad.png</string>
+		<key>StepName</key>
+		<string>Step 11</string>
+		<key>StepNumber</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn left on Taikang road.</string>
+		<key>helpText</key>
+		<string>你好，泰康路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Taikang road.</string>
+		<key>picture</key>
+		<string>leftTaikangRoad.png</string>
+		<key>StepName</key>
+		<string>Step 12</string>
+		<key>StepNumber</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At #248, you&apos;ll find the entrance to Tianzifang. In front of the entrance, you&apos;ll find Dapuqiao station (line 9). Congratulations! You completed this walk!</string>
+		<key>helpText</key>
+		<string>你好，田子坊路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Tianzifang.</string>
+		<key>picture</key>
+		<string>Tianzifang.png</string>
+		<key>StepName</key>
+		<string>Step 13</string>
+		<key>StepNumber</key>
+		<string>13</string>
+	</dict>
+</array>
+</plist>

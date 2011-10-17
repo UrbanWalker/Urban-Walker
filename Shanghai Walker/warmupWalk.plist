@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>distance</key>
+		<string>2.5</string>
+		<key>duration</key>
+		<string>45 minutes</string>
+		<key>ends</key>
+		<string>Jing&apos;an Temple</string>
+		<key>mapFile</key>
+		<string>warmupWalk</string>
+		<key>overview</key>
+		<string>A little to the West of Jing&apos;an Temple is an area seldom visited but with great insight into local life. After you&apos;re done absorbing the local life, head towards Jing&apos;an park for some great people watching.</string>
+		<key>starts</key>
+		<string>Jiangsu road station</string>
+		<key>StepNumber</key>
+		<integer>0</integer>
+		<key>thumbnail</key>
+		<string>thumbnailWarmupWalk.png</string>
+		<key>walkTitle</key>
+		<string>West Jing&apos;an</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>From Jiangsu road station (lines 2/11), step out of exit 5, then turn right on Jiangsu road.</string>
+		<key>helpText</key>
+		<string>你好，江苏路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Jiangsu road.</string>
+		<key>picture</key>
+		<string>jiangsuRoad.png</string>
+		<key>StepName</key>
+		<string>Step 1</string>
+		<key>StepNumber</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>The first street you will meet is West Wuding road. Turn right. At #1317, there is an upscale restaurant for which if you ask nicely, they will let you have a look at the splendid garden.</string>
+		<key>helpText</key>
+		<string>你好，武定西路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>West Wuding road.</string>
+		<key>picture</key>
+		<string>rightWestWudingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 2</string>
+		<key>StepNumber</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>When you meet Wanhangdu road, make a right.</string>
+		<key>helpText</key>
+		<string>你好，万航渡路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Wanhangdu road.</string>
+		<key>picture</key>
+		<string>rightWanhangduRoad.png</string>
+		<key>StepName</key>
+		<string>Step 3</string>
+		<key>StepNumber</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>When Wanhangdu road curves to the left, continue following it.</string>
+		<key>helpText</key>
+		<string>你好，万航渡路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Wanhangdu road.</string>
+		<key>picture</key>
+		<string>continueWanhangduRoad.png</string>
+		<key>StepName</key>
+		<string>Step 4</string>
+		<key>StepNumber</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>You will be on Wanhangdu road for several minutes. Eventually, it will merge with Wuning road and become busier. Keep your eyes open for North Wulumuqi road. Turn right when you meet it.</string>
+		<key>helpText</key>
+		<string>你好，乌鲁木齐北路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>North Wulumuqi road.</string>
+		<key>picture</key>
+		<string>rightNorthWulumuqiRoad.png</string>
+		<key>StepName</key>
+		<string>Step 5</string>
+		<key>StepNumber</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At the intersection, cross Yuyuan road and continue on North Wulumuqi road.</string>
+		<key>helpText</key>
+		<string>你好，乌鲁木齐北路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>North Wulumuqi road.</string>
+		<key>picture</key>
+		<string>crossYuYuanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 6</string>
+		<key>StepNumber</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn left on Yuyuan Branch street.</string>
+		<key>helpText</key>
+		<string>你好，愚园支路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Yuyuan Branch street.</string>
+		<key>picture</key>
+		<string>leftYuyuanBranchStreet.png</string>
+		<key>StepName</key>
+		<string>Step 7</string>
+		<key>StepNumber</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn right on Huashan road. Jing&apos;an Temple station (lines 2/7) is a little further down the street, followed by lovely Jing&apos;an park. Congratulations! You completed this walk!</string>
+		<key>helpText</key>
+		<string>你好，华山路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Huashan road.</string>
+		<key>picture</key>
+		<string>rightHuashanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 8</string>
+		<key>StepNumber</key>
+		<integer>8</integer>
+	</dict>
+</array>
+</plist>

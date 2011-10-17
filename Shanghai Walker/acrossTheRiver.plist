@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>distance</key>
+		<string>4.9</string>
+		<key>duration</key>
+		<string>90 minutes</string>
+		<key>ends</key>
+		<string>Lujiazui station</string>
+		<key>mapFile</key>
+		<string>acrossTheRiver</string>
+		<key>overview</key>
+		<string>Start off and explore incredible Yu Garden, rich in tradition and famous for its shopping. From these historical streets, you&apos;ll make your way to the Bund, across by ferry and land in modern Lujiazui, the financial district of Shanghai.</string>
+		<key>starts</key>
+		<string>Yu Garden station</string>
+		<key>StepNumber</key>
+		<integer>0</integer>
+		<key>thumbnail</key>
+		<string>acrossTheRiverThumbnail.png</string>
+		<key>walkTitle</key>
+		<string>Across the River</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>The station called Yu Garden (line 10) will be your starting point for this walk. As soon as you go out of exit 1, make a U-turn and walk on Middle Henan road.</string>
+		<key>helpText</key>
+		<string>你好，河南中路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Middle Henan road.</string>
+		<key>picture</key>
+		<string>uturnMiddleHenanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 1</string>
+		<key>StepNumber</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn left on Fuyou road. On this street, everything &quot;Made in China&quot; seems to be available in overstuffed shops. The main entrance to an incredible shopping experience is to your left on Panjia road.</string>
+		<key>helpText</key>
+		<string>你好，福佑路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fuyou road.</string>
+		<key>picture</key>
+		<string>leftFuyouRoad.png</string>
+		<key>StepName</key>
+		<string>Step 2</string>
+		<key>StepNumber</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Continue your way to more shopping by crossing Lishui road.</string>
+		<key>helpText</key>
+		<string>你好，丽水路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Lishui road.</string>
+		<key>picture</key>
+		<string>crossLishuiRoad.png</string>
+		<key>StepName</key>
+		<string>Step 3</string>
+		<key>StepNumber</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>After all the shopping, you&apos;ll see a small street called Anren road. Turn right.</string>
+		<key>helpText</key>
+		<string>你好，安仁路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Anren road.</string>
+		<key>picture</key>
+		<string>rightAnrenRoad.png</string>
+		<key>StepName</key>
+		<string>Step 4</string>
+		<key>StepNumber</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At the T-junction, turn left on Fangbang road.</string>
+		<key>helpText</key>
+		<string>你好，方浜路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fangbang road.</string>
+		<key>picture</key>
+		<string>leftFangbangRoad2.png</string>
+		<key>StepName</key>
+		<string>Step 5</string>
+		<key>StepNumber</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Amid all the shops, you will see to your right a small street called Sipailou road. Go through the arch and make your way pass the food stalls.</string>
+		<key>helpText</key>
+		<string>你好，四牌楼路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Sipailou road.</string>
+		<key>picture</key>
+		<string>rightSipailouRoad.png</string>
+		<key>StepName</key>
+		<string>Step 6</string>
+		<key>StepNumber</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Leaving the food stalls behind, continue your way on Sipailou road. This segment of the walk offers a break from the intense experience you just had. When you meet West Yaojia lane, turn left.</string>
+		<key>helpText</key>
+		<string>你好，西姚家弄怎么走？</string>
+		<key>helpTextEn</key>
+		<string>West Yaojia lane.</string>
+		<key>picture</key>
+		<string>leftXiyaojiaRoad.png</string>
+		<key>StepName</key>
+		<string>Step 7</string>
+		<key>StepNumber</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Zhonghua road. You will now be walking on Laotaiping road</string>
+		<key>helpText</key>
+		<string>你好，中华路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Zhonghua road.</string>
+		<key>picture</key>
+		<string>crossZhonghuaRoad.png</string>
+		<key>StepName</key>
+		<string>Step 8</string>
+		<key>StepNumber</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn right on Waixiangua road</string>
+		<key>helpText</key>
+		<string>你好，外咸瓜路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Waixiangua road.</string>
+		<key>picture</key>
+		<string>rightWaixianguaRoad.png</string>
+		<key>StepName</key>
+		<string>Step 9</string>
+		<key>StepNumber</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross East Fuxing road then turn left. Continue walking on East Fuxing road and climb up the pedestrian overpass.</string>
+		<key>helpText</key>
+		<string>你好，复兴东路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>East Fuxing road.</string>
+		<key>picture</key>
+		<string>leftWestFuxingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 10</string>
+		<key>StepNumber</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>You have 3 options: 1- cross South Zhongshan road and take the ferry 2-turn left and walk 15 minutes to visit the Cool Docks, an upscale bar/dinning area 3- turn right to reach a second ferry terminal.</string>
+		<key>helpText</key>
+		<string>你好，中山南路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>South Zhongshan road.</string>
+		<key>picture</key>
+		<string>zhongshannanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 11</string>
+		<key>StepNumber</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>This walk goes with option 1. Crossing South Zhongshan road, enter the ferry terminal through entrance number 2 on your left.</string>
+		<key>helpText</key>
+		<string>你好，复兴东路轮渡站怎么走？</string>
+		<key>helpTextEn</key>
+		<string>the ferry terminal.</string>
+		<key>picture</key>
+		<string>ferry.png</string>
+		<key>StepName</key>
+		<string>Step 12</string>
+		<key>StepNumber</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>As you exit the ferry station, turn left an follow Fucheng road.</string>
+		<key>helpText</key>
+		<string>你好，富城路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fucheng road.</string>
+		<key>picture</key>
+		<string>leftFuchengRoad.png</string>
+		<key>StepName</key>
+		<string>Step 13</string>
+		<key>StepNumber</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>After several minutes on Fucheng road, you will see a small entrance for Binjiang park which overlooks the Bund. Turn left and follow the river.</string>
+		<key>helpText</key>
+		<string>你好，滨江公园怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Binjiang park.</string>
+		<key>picture</key>
+		<string>leftParkEntrance.png</string>
+		<key>StepName</key>
+		<string>Step 14</string>
+		<key>StepNumber</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>After several minutes on the waterfront, you will cross a small bridge. Afterward, climb the stairs to your right and exit the park to reach Mingzhuta road.</string>
+		<key>helpText</key>
+		<string>你好，明珠塔路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Mingzhuta road.</string>
+		<key>picture</key>
+		<string>rightMinzhutaRoad.png</string>
+		<key>StepName</key>
+		<string>Step 15</string>
+		<key>StepNumber</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Mingzhuta road will meet with Fenghe road. Turn right. After a few minutes on Fenghe road, you will see a circular pedestrian overpass. Take the stairs up.</string>
+		<key>helpText</key>
+		<string>你好，丰和路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fenghe road.</string>
+		<key>picture</key>
+		<string>escalatorLujiazui.png</string>
+		<key>StepName</key>
+		<string>Step 16</string>
+		<key>StepNumber</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Lujiazui station (line 2) can be accessed by walking down the stairs after reaching the other half of the pedestrian overpass. Congratulations! You completed this walk!</string>
+		<key>helpText</key>
+		<string>你好，陆家嘴地铁站怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Lujiazui station.</string>
+		<key>picture</key>
+		<string>lujiazui.png</string>
+		<key>StepName</key>
+		<string>Step 17</string>
+		<key>StepNumber</key>
+		<integer>17</integer>
+	</dict>
+</array>
+</plist>

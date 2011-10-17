@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>endingPoint</key>
+		<string>Yu Garden</string>
+		<key>overview</key>
+		<string>From the heart of Jing'an district to backstreets, this walk has international shopping, local markets, incredible buildings and busy neighborhood filled with local characters.</string>
+		<key>startingPoint</key>
+		<string>Jing'an Temple</string>
+		<key>thumbnail</key>
+		<string>yuGarden.png</string>
+		<key>walkDistance</key>
+		<string>4.1 km</string>
+		<key>walkTime</key>
+		<string>1 hour</string>
+		<key>walkTitle</key>
+		<string>From the Temple</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Head out from Jing'an Template subway through exit XX. Continue strait ahead on Nanjing West road.</string>
+		<key>StepName</key>
+		<string>Step 1</string>
+		<key>StepNumber</key>
+		<integer>1</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>After about 5 minutes, you will reach Tongren road. Turn left.</string>
+		<key>StepName</key>
+		<string>Step 2</string>
+		<key>StepNumber</key>
+		<integer>2</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>As you're going down Fuzhou road, keep your eyes open for a small lane on your right called Pingwang street. Cross Fuzhou road and head down it. Take a look at all the small shops and peek through the side lanes for a look at local life. </string>
+		<key>StepName</key>
+		<string>Step 3</string>
+		<key>StepNumber</key>
+		<integer>3</integer>
+		<key>picture</key>
+		<string>pingwangstreet.jpg</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Pingwang street will lead you to Guangdong road. Turn left. </string>
+		<key>StepName</key>
+		<string>Step 4</string>
+		<key>StepNumber</key>
+		<integer>4</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Continue your way on Guangdong road and cross Zhejiang road.</string>
+		<key>StepName</key>
+		<string>Step 5</string>
+		<key>StepNumber</key>
+		<integer>5</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Still on Guangdong road, cross Hubei road</string>
+		<key>StepName</key>
+		<string>Step 6</string>
+		<key>StepNumber</key>
+		<integer>6</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>When you meet Fujian road, turn right. You'll need to go up the pedestrian overpass to continue.</string>
+		<key>StepName</key>
+		<string>Step 7</string>
+		<key>StepNumber</key>
+		<integer>7</integer>
+		<key>picture</key>
+		<string>fujianroadoverpass.jpg</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Walk up the overpass. As you cross under the highway, go down the second staircase (the residential building should be on your left as you walk down the stairs). You are now back on Fujian road.</string>
+		<key>StepName</key>
+		<string>Step 8</string>
+		<key>StepNumber</key>
+		<integer>8</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Continuing on Fujian road, cross Ninghai road.</string>
+		<key>StepName</key>
+		<string>Step 9</string>
+		<key>StepNumber</key>
+		<integer>9</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn left on Jinling road. For the next few blocks, you'll see many stores selling musical instruments of all sorts.</string>
+		<key>StepName</key>
+		<string>Step 10</string>
+		<key>StepNumber</key>
+		<integer>10</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Continue your way on Jinling road and cross Shengze road.</string>
+		<key>StepName</key>
+		<string>Step 11</string>
+		<key>StepNumber</key>
+		<integer>11</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Still on Jinling road, cross Shandong road.</string>
+		<key>StepName</key>
+		<string>Step 12</string>
+		<key>StepNumber</key>
+		<integer>12</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>On your right, before the next road, you'll see a small lane called Jinmen road. Turn right and head down it.</string>
+		<key>StepName</key>
+		<string>Step 13</string>
+		<key>StepNumber</key>
+		<integer>13</integer>
+		<key>picture</key>
+		<string>jinmenroad.jpg</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At the end of Jinmen road, you'll encounter Renmin road. You should see in front of you an entrance for subway line 10 called Yu Garden. Cross Renmin road and walk down Henan road.</string>
+		<key>StepName</key>
+		<string>Step 14</string>
+		<key>StepNumber</key>
+		<integer>14</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>You will be walking on Henan road for several minutes. You will encounter at some point a small street called Dajing road. Immediatly passed Dajing road, there is a zebra crossing. Cross Henan road and go down Zihua road. (note that the sign indicating the name is further down the road).</string>
+		<key>StepName</key>
+		<string>Step 15</string>
+		<key>StepNumber</key>
+		<integer>15</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Zihua road will lead to a T-junction. Make a right. You are now walking on Houjia road.</string>
+		<key>StepName</key>
+		<string>Step 16</string>
+		<key>StepNumber</key>
+		<integer>16</integer>
+		<key>picture</key>
+		<string>houjiaroad.jpg</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>You'll encounter another T-junction. This time, make a left on Fangbang road.</string>
+		<key>StepName</key>
+		<string>Step 17</string>
+		<key>StepNumber</key>
+		<integer>17</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>When you reach Jiujiaochang road, turn left. Congratulations! You made it to Yu Gardens!</string>
+		<key>StepName</key>
+		<string>Step 18</string>
+		<key>StepNumber</key>
+		<integer>18</integer>
+		<key>picture</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>distance</key>
+		<string>2.4</string>
+		<key>duration</key>
+		<string>45 minutes</string>
+		<key>ends</key>
+		<string>Luxun park</string>
+		<key>mapFile</key>
+		<string>weekendWalk</string>
+		<key>overview</key>
+		<string>Perfect for a sunny weekend, this walk will make you discover the markets, shops, parks and people of Hongkou district.</string>
+		<key>starts</key>
+		<string>Baoshan road station</string>
+		<key>StepNumber</key>
+		<integer>0</integer>
+		<key>thumbnail</key>
+		<string>weekendWalkThumbnail.png</string>
+		<key>walkTitle</key>
+		<string>Weekend Walk</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>From Baoshan road station (lines 3/4), leave the station through exit 1. In front of you will be Baoshan road. Cross it.</string>
+		<key>helpText</key>
+		<string>你好，宝山路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Baoshan road.</string>
+		<key>picture</key>
+		<string>crossBaoshanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 1</string>
+		<key>StepNumber</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Continue your way by following Qiujiang road. On your left is a busy electronic market. If you wish to go in, you&apos;ll find the main entrance below the tracks. This street is fascinating, but watch your step!</string>
+		<key>helpText</key>
+		<string>你好，虬江路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Qiujiang road.</string>
+		<key>picture</key>
+		<string>continueQiujiaRoad.png</string>
+		<key>StepName</key>
+		<string>Step 2</string>
+		<key>StepNumber</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>You will enventually meet North Sichuan road, a busy shopping street. Turn left.</string>
+		<key>helpText</key>
+		<string>你好，四川北路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>North Sichuan road.</string>
+		<key>picture</key>
+		<string>leftSichuanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 3</string>
+		<key>StepNumber</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Dongbaoxing road and continue on North Sichuan road.</string>
+		<key>helpText</key>
+		<string>你好，东宝兴路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Dongbaoxing road.</string>
+		<key>picture</key>
+		<string>crossDongbaoxingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 4</string>
+		<key>StepNumber</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>When you meet Hailun road, cross it.</string>
+		<key>helpText</key>
+		<string>你好，海伦路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Hailun road.</string>
+		<key>picture</key>
+		<string>crossHuilunRoad.png</string>
+		<key>StepName</key>
+		<string>Step 5</string>
+		<key>StepNumber</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>North Sichuan road will meet with Duolun road, a small road with nice old buildings. Turn left.</string>
+		<key>helpText</key>
+		<string>你好，多伦路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Duolun road.</string>
+		<key>picture</key>
+		<string>leftDuolunRoad.png</string>
+		<key>StepName</key>
+		<string>Step 6</string>
+		<key>StepNumber</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>When Duolun road comes to an end, cross Dongjiangwan road. You are now walking on North Sichuan road again.</string>
+		<key>helpText</key>
+		<string>你好，东江湾路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Dongjiangwan road.</string>
+		<key>picture</key>
+		<string>crossDongjiangwanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 7</string>
+		<key>StepNumber</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>After a few minutes, North Sichuan road will curve and you&apos;ll see the entrance to Luxun park. Hongkou football stadium (lines 3/8) will be to your left. Congratulations! You completed this walk!</string>
+		<key>helpText</key>
+		<string>你好，鲁迅公园路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Luxun park.</string>
+		<key>picture</key>
+		<string>luXunPark.png</string>
+		<key>StepName</key>
+		<string>Step 8</string>
+		<key>StepNumber</key>
+		<integer>8</integer>
+	</dict>
+</array>
+</plist>

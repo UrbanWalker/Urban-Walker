@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>distance</key>
+		<string>4.1</string>
+		<key>duration</key>
+		<string>1 hour</string>
+		<key>ends</key>
+		<string>Xujiahui station</string>
+		<key>mapFile</key>
+		<string>TheFrenchConcessionI</string>
+		<key>overview</key>
+		<string>Step away from skyscrapers and busy shopping malls and walk through the historical French Concession. Discover small shops, beautiful mansions and winding tree covered roads.</string>
+		<key>starts</key>
+		<string>Changshu road station</string>
+		<key>StepNumber</key>
+		<integer>0</integer>
+		<key>thumbnail</key>
+		<string>frenchConcessionIThumbnail.png</string>
+		<key>walkTitle</key>
+		<string>The French Concession II</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Changshu road station (line 1) will be your starting point for this walk. From exit 1, turn left on Huating road.</string>
+		<key>helpText</key>
+		<string>你好，华亭路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Huating road.</string>
+		<key>picture</key>
+		<string>leftHuatingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 1</string>
+		<key>StepNumber</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Yanqing road.</string>
+		<key>helpText</key>
+		<string>你好，延庆路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Yanqing road.</string>
+		<key>picture</key>
+		<string>crossYanpingroad.png</string>
+		<key>StepName</key>
+		<string>Step 2</string>
+		<key>StepNumber</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>When you meet Changle road, turn left.</string>
+		<key>helpText</key>
+		<string>你好，长乐路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Changle road.</string>
+		<key>picture</key>
+		<string>leftChangleRoad.png</string>
+		<key>StepName</key>
+		<string>Step 3</string>
+		<key>StepNumber</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>On the big street called Changshu road, turn left.</string>
+		<key>helpText</key>
+		<string>你好，常熟路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Changshu road.</string>
+		<key>picture</key>
+		<string>leftChangshusRoad.png</string>
+		<key>StepName</key>
+		<string>Step 4</string>
+		<key>StepNumber</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn right on Anfu road. Be careful here, you&apos;ll have to cross Changshu road and there are no lights for pedestrians. Once on Anfu road, walk on the left sidewalk to peek into the boutiques and restaurants.</string>
+		<key>helpText</key>
+		<string>你好，安福路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Anfu road.</string>
+		<key>picture</key>
+		<string>rightAnfuRoad.png</string>
+		<key>StepName</key>
+		<string>Step 5</string>
+		<key>StepNumber</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Middle Wulumuqi road.</string>
+		<key>helpText</key>
+		<string>你好，乌鲁木齐中路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Middle Wulumuqi road.</string>
+		<key>picture</key>
+		<string>crossWulumuqiRoad.png</string>
+		<key>StepName</key>
+		<string>Step 6</string>
+		<key>StepNumber</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn left on Wukang road.</string>
+		<key>helpText</key>
+		<string>你好，武康路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Wukang road.</string>
+		<key>picture</key>
+		<string>leftWukangRoad.png</string>
+		<key>StepName</key>
+		<string>Step 7</string>
+		<key>StepNumber</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Wuyuan road.</string>
+		<key>helpText</key>
+		<string>你好，五原路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Wuyuan road.</string>
+		<key>picture</key>
+		<string>crosswuyuanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 8</string>
+		<key>StepNumber</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn left on West Fuxing road. This road has some nice old houses and the trees are simply stunning.</string>
+		<key>helpText</key>
+		<string>你好，复兴西路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>West Fuxing road.</string>
+		<key>picture</key>
+		<string>leftFuxingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 9</string>
+		<key>StepNumber</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn right on Yongfu road.</string>
+		<key>helpText</key>
+		<string>你好，永福路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Yongfu road.</string>
+		<key>picture</key>
+		<string>rightYangfuRoad.png</string>
+		<key>StepName</key>
+		<string>Step 10</string>
+		<key>StepNumber</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>When you meet Hunan road, turn left.</string>
+		<key>helpText</key>
+		<string>你好，湖南路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Hunan road.</string>
+		<key>picture</key>
+		<string>leftHunanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 11</string>
+		<key>StepNumber</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Hunan road is intersected by Middle Huaihai road. Turn right and follow it.</string>
+		<key>helpText</key>
+		<string>你好，淮海中路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Middle Huaihai road.</string>
+		<key>picture</key>
+		<string>rightHuaihaiRoad.png</string>
+		<key>StepName</key>
+		<string>Step 12</string>
+		<key>StepNumber</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>After crossing Wuxing road, you will see Wanping road on your left. Turn and follow this tree covered street.</string>
+		<key>helpText</key>
+		<string>你好，宛平路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Wanping road.</string>
+		<key>picture</key>
+		<string>leftWanpingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 13</string>
+		<key>StepNumber</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Kangping road.</string>
+		<key>helpText</key>
+		<string>你好，康平路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Kangping road.</string>
+		<key>picture</key>
+		<string>crossKangpingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 14</string>
+		<key>StepNumber</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>You will encounter a complex intersection. Across the intersection, you will see Xujiahui park. Turn right and walk on Hengshan road along the park. </string>
+		<key>helpText</key>
+		<string>你好，衡山路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Hengshan road.</string>
+		<key>picture</key>
+		<string>rightHengshanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 15</string>
+		<key>StepNumber</key>
+		<integer>15</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Once you passed the park, turn right on Tianping road.</string>
+		<key>helpText</key>
+		<string>你好，天平路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Tianping road.</string>
+		<key>picture</key>
+		<string>rightTianpingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 16</string>
+		<key>StepNumber</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn right on busy Zhaojiabang road. </string>
+		<key>helpText</key>
+		<string>你好，肇嘉浜路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Zhaojiabang road.</string>
+		<key>picture</key>
+		<string>rightZhaojiabangRoad.png</string>
+		<key>StepName</key>
+		<string>Step 17</string>
+		<key>StepNumber</key>
+		<integer>17</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>After a few minutes, you will see an entrance for Xujiahui station (lines 1/9). Congratulations! You completed this walk!</string>
+		<key>helpText</key>
+		<string>你好，徐家汇地铁站怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Xujiahui station.</string>
+		<key>picture</key>
+		<string>xujiahui.png</string>
+		<key>StepName</key>
+		<string>Step 18</string>
+		<key>StepNumber</key>
+		<integer>18</integer>
+	</dict>
+</array>
+</plist>

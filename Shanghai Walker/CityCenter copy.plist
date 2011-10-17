@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>distance</key>
+		<string>3.1</string>
+		<key>duration</key>
+		<string>45 minutes</string>
+		<key>ends</key>
+		<string>People&apos;s Square</string>
+		<key>mapFile</key>
+		<string>acrossTheRiver</string>
+		<key>overview</key>
+		<string></string>
+		<key>starts</key>
+		<string>S. Shaanxi road station</string>
+		<key>StepNumber</key>
+		<integer>0</integer>
+		<key>thumbnail</key>
+		<string>acrossTheRiverThumbnail.png</string>
+		<key>walkTitle</key>
+		<string>a</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>This walks begins at South Shaanxi road station (line 1). From exit 4, cross Maoming road and walk on Huaihai Middle road.</string>
+		<key>helpText</key>
+		<string>你好，茂名南路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>South Maoming road.</string>
+		<key>picture</key>
+		<string>crossMaomingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 1</string>
+		<key>StepNumber</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Upon meeting Ruijin road (no.1), turn left.</string>
+		<key>helpText</key>
+		<string>你好，瑞金一路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Ruijin (no.1) road.</string>
+		<key>picture</key>
+		<string>leftRuijinYiRoad.png</string>
+		<key>StepName</key>
+		<string>Step 2</string>
+		<key>StepNumber</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>The first street you will meet will be Changle road. Turn right. Make sure to peek in the different stores along the way.</string>
+		<key>helpText</key>
+		<string>你好，长乐路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Changle road.</string>
+		<key>picture</key>
+		<string>rightChangleRoad2.png</string>
+		<key>StepName</key>
+		<string>Step 3</string>
+		<key>StepNumber</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Chengdu South road.</string>
+		<key>helpText</key>
+		<string>你好，成都路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Chengdu South road.</string>
+		<key>picture</key>
+		<string>crossChengduSouthRoad.png</string>
+		<key>StepName</key>
+		<string>Step 4</string>
+		<key>StepNumber</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>As you approach the elevated highway, turn left and follow Chongqing road.</string>
+		<key>helpText</key>
+		<string>你好，重庆路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Chongqing road.</string>
+		<key>picture</key>
+		<string>leftChongqingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 5</string>
+		<key>StepNumber</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Go up the stairs and when you reach the top, turn right. Follow the curve, pass below the highway and walk down to continue your way on Chongqing road. </string>
+		<key>helpText</key>
+		<string>你好，重庆路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Chongqing road.</string>
+		<key>picture</key>
+		<string>upChongqingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 6</string>
+		<key>StepNumber</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Make a right on Dagu road.</string>
+		<key>helpText</key>
+		<string>你好，大沽路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Dagu road.</string>
+		<key>picture</key>
+		<string>rightDaguRoad.png</string>
+		<key>StepName</key>
+		<string>Step 7</string>
+		<key>StepNumber</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross North Chongqing road.</string>
+		<key>helpText</key>
+		<string>你好，重庆北路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>North Chongqing road.</string>
+		<key>picture</key>
+		<string>crossChongqingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 8</string>
+		<key>StepNumber</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At the T-junction, cross Huangpi road, then turn left. Continue on Huangpi road until you reach the Shanghai Grand Theatre.</string>
+		<key>helpText</key>
+		<string>你好，黄陂路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Huangpi road.</string>
+		<key>picture</key>
+		<string>leftHuangpiRoad.png</string>
+		<key>StepName</key>
+		<string>Step 9</string>
+		<key>StepNumber</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>On Renmin avenue, turn right.</string>
+		<key>helpText</key>
+		<string>你好，人民大道怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Renmin avenue.</string>
+		<key>picture</key>
+		<string>rightRenminAvenue.png</string>
+		<key>StepName</key>
+		<string>Step 10</string>
+		<key>StepNumber</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>After passing the Shanghai Museum (on your right) and the Urban Planning Exhibition Center (on your left), you will see the entrance to People&apos;s Square station. Congratulations! You completed this walk!</string>
+		<key>helpText</key>
+		<string>你好，人民广场地铁站怎么走？</string>
+		<key>helpTextEn</key>
+		<string>People&apos;s Square station</string>
+		<key>picture</key>
+		<string>psqStation.png</string>
+		<key>StepName</key>
+		<string>Step 11</string>
+		<key>StepNumber</key>
+		<integer>11</integer>
+	</dict>
+</array>
+</plist>

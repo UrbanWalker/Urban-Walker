@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>distance</key>
+		<string>3.4 km</string>
+		<key>duration</key>
+		<string>50 minutes</string>
+		<key>ends</key>
+		<string>S. Shaanxi road station</string>
+		<key>mapFile</key>
+		<string>TheFrenchConcession34</string>
+		<key>overview</key>
+		<string>The French Concession is one of the most interesting areas of Shanghai. It merges historical buildings, trendy clothes shops, colorful local life and a touch of international flavor. A trip to Shanghai is not complete without walking in this beautiful area.</string>
+		<key>starts</key>
+		<string>Hengshan road station</string>
+		<key>StepNumber</key>
+		<integer>0</integer>
+		<key>thumbnail</key>
+		<string>frenchC34.png</string>
+		<key>walkTitle</key>
+		<string>The French Concession I</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At Hengshan road station (line 1), go up the stairs of exit 1, turn right and exit the station. Hengshan road will be in front of you. Turn right and follow it.</string>
+		<key>helpText</key>
+		<string>你好，衡山路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Hengshan road.</string>
+		<key>picture</key>
+		<string>rightHengshanRoad2.png</string>
+		<key>StepName</key>
+		<string>Step 1</string>
+		<key>StepNumber</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Wulumuqi South road and continue until you meet Dongping road. Turn right on Dongping road.</string>
+		<key>helpText</key>
+		<string>你好，东平路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Dongping road.</string>
+		<key>picture</key>
+		<string>rightDongPingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 2</string>
+		<key>StepNumber</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At the T-junction, turn left on Yueyang road. Yueyang road will then change to Fenyang road.</string>
+		<key>helpText</key>
+		<string>你好，汾阳路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fenyang road.</string>
+		<key>picture</key>
+		<string>leftFengyangRoad.png</string>
+		<key>StepName</key>
+		<string>Step 3</string>
+		<key>StepNumber</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Continue on Fenyang road to your left.</string>
+		<key>helpText</key>
+		<string>你好，汾阳路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fenyang road.</string>
+		<key>picture</key>
+		<string>leftFengyangRoad2.png</string>
+		<key>StepName</key>
+		<string>Step 4</string>
+		<key>StepNumber</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Fuxing Middle road. On your left will be several music shops and the Shanghai Conservatory of Music.</string>
+		<key>helpText</key>
+		<string>你好，复兴中路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fuxing Middle road.</string>
+		<key>picture</key>
+		<string>crossFuxingMiddleRoad3.png</string>
+		<key>StepName</key>
+		<string>Step 5</string>
+		<key>StepNumber</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Huaihai Middle road and immediately turn left on Donghu road.</string>
+		<key>helpText</key>
+		<string>你好，东湖路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Donghu road.</string>
+		<key>picture</key>
+		<string>leftDonghuRoad.png</string>
+		<key>StepName</key>
+		<string>Step 6</string>
+		<key>StepNumber</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At the first intersection, take a sharp right on Xinle road.</string>
+		<key>helpText</key>
+		<string>你好，新乐路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Xinle road.</string>
+		<key>picture</key>
+		<string>rightXinleRoad.png</string>
+		<key>StepName</key>
+		<string>Step 7</string>
+		<key>StepNumber</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross North Xiangyang road.</string>
+		<key>helpText</key>
+		<string>你好，襄阳北路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>North Xiangyang road.</string>
+		<key>picture</key>
+		<string>crossXiangyangRoad.png</string>
+		<key>StepName</key>
+		<string>Step 8</string>
+		<key>StepNumber</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At the T-junction, turn left on South Shaanxi road.</string>
+		<key>helpText</key>
+		<string>你好，陕西南路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>South Shaanxi road.</string>
+		<key>picture</key>
+		<string>leftShaanxiRoad.png</string>
+		<key>StepName</key>
+		<string>Step 9</string>
+		<key>StepNumber</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>The first street you will meet is Changle road. Turn right.</string>
+		<key>helpText</key>
+		<string>你好，长乐路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Changle road.</string>
+		<key>picture</key>
+		<string>rightChangleRoad.png</string>
+		<key>StepName</key>
+		<string>Step 10</string>
+		<key>StepNumber</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At the next street, turn right on South Maoming road.</string>
+		<key>helpText</key>
+		<string>你好，茂名南路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>South Maoming road.</string>
+		<key>picture</key>
+		<string>rightSouthMaomingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 11</string>
+		<key>StepNumber</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>As you meet Huaihai Middle road again, you&apos;ll see the subway entrance on your right. Congratulations! You completed this walk!</string>
+		<key>helpText</key>
+		<string>你好，淮海中路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Huaihai Middle road.</string>
+		<key>picture</key>
+		<string>lastStopHuaihaiRoad.png</string>
+		<key>StepName</key>
+		<string>Step 12</string>
+		<key>StepNumber</key>
+		<integer>12</integer>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>distance</key>
+		<string>4 km</string>
+		<key>duration</key>
+		<string>1 hour</string>
+		<key>ends</key>
+		<string>Yu Garden</string>
+		<key>mapFile</key>
+		<string>PSQYuGarden</string>
+		<key>overview</key>
+		<string>Starting in exciting People&apos;s Square, this walk will bring you through neigborhoods that are rich in contrasts. Experience local life through small lanes and see bustling downtown activity to get a true feeling of what Shanghai is about.</string>
+		<key>starts</key>
+		<string>People&apos;s Square</string>
+		<key>StepNumber</key>
+		<integer>0</integer>
+		<key>thumbnail</key>
+		<string>YuGardenThumbnail.png</string>
+		<key>walkTitle</key>
+		<string>Onwards to Yu Garden</string>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At People‘s Square station (lines 1/2/8), climb the stairs of exit 14. As you exit, take a moment to look at the church to your left. Continue forward on Hankou road until you reach the first intersection.</string>
+		<key>helpText</key>
+		<string>你好，汉口路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Hankou road.</string>
+		<key>picture</key>
+		<string>hankouRoad.png</string>
+		<key>StepName</key>
+		<string>Step 1</string>
+		<key>StepNumber</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn right on Yunnan road</string>
+		<key>helpText</key>
+		<string>你好，云南路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Yunnan road.</string>
+		<key>picture</key>
+		<string>rightYunnanRoad.png</string>
+		<key>StepName</key>
+		<string>Step 2</string>
+		<key>StepNumber</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>The next street you will meet is Fuzhou road. Turn left.</string>
+		<key>helpText</key>
+		<string>你好，福州路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fuzhou road.</string>
+		<key>picture</key>
+		<string>leftFuzhouRoad.png</string>
+		<key>StepName</key>
+		<string>Step 3</string>
+		<key>StepNumber</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross North Guangxi road and keep your eyes open for a small lane to your right called Pinwang street. Turn right and head down Pinwang street.</string>
+		<key>helpText</key>
+		<string>你好，平望街路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Pinwang street.</string>
+		<key>picture</key>
+		<string>rightPingwanStreet.png</string>
+		<key>StepName</key>
+		<string>Step 4</string>
+		<key>StepNumber</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At Guangdong road, turn left.</string>
+		<key>helpText</key>
+		<string>你好，广东路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Guangdong road.</string>
+		<key>picture</key>
+		<string>leftGuangdongRoad.png</string>
+		<key>StepName</key>
+		<string>Step 5</string>
+		<key>StepNumber</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Turn right on Fujian road and climb the stairs, go under the highway and climb down the other side. When you go down the stairs, a building should be to your left and the park to your right.</string>
+		<key>helpText</key>
+		<string>你好，福建路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fujian road.</string>
+		<key>picture</key>
+		<string>rightFujianRoad.png</string>
+		<key>StepName</key>
+		<string>Step 6</string>
+		<key>StepNumber</key>
+		<integer>6</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Continue on Fujian road. After passing East Ninghai road turn left on Jinling road.</string>
+		<key>helpText</key>
+		<string>你好，金陵路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Jinling road.</string>
+		<key>picture</key>
+		<string>leftJinlingRoad.png</string>
+		<key>StepName</key>
+		<string>Step 7</string>
+		<key>StepNumber</key>
+		<integer>7</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Shengze road and South Shandong road. Afterwards, keep your eyes open for a small street on your right called Jingmen road. Once you see it, head down it.</string>
+		<key>helpText</key>
+		<string>你好，金门路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Jingmen road.</string>
+		<key>picture</key>
+		<string>rightJinmenRoad.png</string>
+		<key>StepName</key>
+		<string>Step 8</string>
+		<key>StepNumber</key>
+		<integer>8</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Cross Renmin road and continue on South Henan road.</string>
+		<key>helpText</key>
+		<string>你好，人民路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Renmin road.</string>
+		<key>picture</key>
+		<string>crossRenminRoad.png</string>
+		<key>StepName</key>
+		<string>Step 9</string>
+		<key>StepNumber</key>
+		<integer>9</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>After a few minutes, you will see a small street on your left called Zihua road. Turn left and follow it.</string>
+		<key>helpText</key>
+		<string>你好，紫华路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Zihua road.</string>
+		<key>picture</key>
+		<string>leftZhihuaRoad.png</string>
+		<key>StepName</key>
+		<string>Step 10</string>
+		<key>StepNumber</key>
+		<integer>10</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At the T-junction, turn right on Houjia road.</string>
+		<key>helpText</key>
+		<string>你好，侯家路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Houjia road.</string>
+		<key>picture</key>
+		<string>rightHoujiaRoad.png</string>
+		<key>StepName</key>
+		<string>Step 11</string>
+		<key>StepNumber</key>
+		<integer>11</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>When you meet Fangbang Middle road, turn left.</string>
+		<key>helpText</key>
+		<string>你好，方浜中路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Fangbang Middle road.</string>
+		<key>picture</key>
+		<string>leftFangbangRoad.png</string>
+		<key>StepName</key>
+		<string>Step 12</string>
+		<key>StepNumber</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>At Jiujiaochang road turn left. Congratulations! You completed this walk!</string>
+		<key>helpText</key>
+		<string>你好，旧校场路怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Jiujiaochang road.</string>
+		<key>picture</key>
+		<string>leftJiujiaochangRoad.png</string>
+		<key>StepName</key>
+		<string>Step 13</string>
+		<key>StepNumber</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>DirectionText</key>
+		<string>Finally, turn right on Fuyou road. The entrance to Yu Garden will be a little further to your right. Congratulations! You completed this walk!</string>
+		<key>helpText</key>
+		<string>你好，豫园怎么走？</string>
+		<key>helpTextEn</key>
+		<string>Yu Garden.</string>
+		<key>picture</key>
+		<string>crossLishuiRoad.png</string>
+		<key>StepName</key>
+		<string>Step 14</string>
+		<key>StepNumber</key>
+		<integer>14</integer>
+	</dict>
+</array>
+</plist>
